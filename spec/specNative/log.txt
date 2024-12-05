@@ -1,0 +1,2 @@
+Created trip for John with car Truck A to Orere
+Created trip for John with car Truck A to Mason
